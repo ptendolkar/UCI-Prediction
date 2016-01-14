@@ -1,2 +1,3 @@
 # sEMG Hand Movement
-https://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movements
+-----------------------
+Link to Dataset: https://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movements
