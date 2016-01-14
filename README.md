@@ -1,5 +1,2 @@
-# UCI-Prediction
-Predictions on various datasets from UCI data
-
-# Description
-Each branch contains a different dataset
+# sEMG Hand Movement
+https://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movements
